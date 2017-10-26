@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cu3ox>
+<Settings>
+  <imageWidth>1002</imageWidth>
+  <imageHeight>239</imageHeight>
+  <segments>5</segments>
+  <tweenTime>1.2</tweenTime>
+  <tweenDelay>0.1</tweenDelay>
+  <tweenType>easeInOutBack</tweenType>
+  <zDistance>0</zDistance>
+  <expand>20</expand>
+  <innerColor>0x111111</innerColor>
+  <textBackground>0x333333</textBackground>
+  <startBackground>0xffffff</startBackground>
+  <noLogo>0</noLogo>
+  <shadowDarkness>100</shadowDarkness>
+  <textDistance>3</textDistance>
+  <autoplay>3</autoplay>
+  <rDirection>random</rDirection>
+  <borderRadius>16</borderRadius>
+  <descriptionWidth>972</descriptionWidth>
+  <descriptionHeight>60</descriptionHeight>
+  <descriptionOffset>169</descriptionOffset>
+  <descriptionType>upDown</descriptionType>
+  <noShadow>1</noShadow>
+  <showControls>true</showControls>
+  <startLogo></startLogo>
+  <loop>1</loop>
+  <sound></sound>
+</Settings>
+<Image Filename="1302860180.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>random</rDirection>
+<segments>5</segments>
+</Settings>
+</Image>
+<Image Filename="1302860189.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>random</rDirection>
+<segments>5</segments>
+</Settings>
+</Image>
+</Cu3ox>

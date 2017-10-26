@@ -1,0 +1,1 @@
+select * from productpic where opicname= '1302859041.jpg'
